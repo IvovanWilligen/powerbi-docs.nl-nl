@@ -19,9 +19,9 @@ ms.locfileid: "66413003"
 ---
 # <a name="connector-extensibility-in-power-bi"></a>Uitbreidbaarheid van connectors in Power BI
 
-In Power BI, kunnen klanten en ontwikkelaars de gegevensbronnen waarmee ze verbinding op tal van manieren maken uitbreiden. Ze gebruiken bestaande connectors en algemene gegevensbronnen (zoals ODBC, OData-, Oledb, Web, CSV, XML, JSON). Ontwikkelaars maken gegevensextensies, aangeduid als **aangepaste Connectors**, en ze **gecertificeerde Connectors**.
+In Power BI, kunnen klanten en ontwikkelaars de gegevensbronnen waarmee ze verbinding op tal van manieren uitbreiden. Ze gebruiken bestaande connectors en algemene gegevensbronnen (zoals ODBC, OData-, Oledb, Web, CSV, XML, JSON). Of ontwikkelaars maken gegevensextensies, aangeduid als **aangepaste Connectors** en laten ze certificeren zodat het **gecertificeerde Connectors** worden.
 
-Momenteel kunt u inschakelen **aangepaste Connectors** met behulp van een menu zien waarmee u veilig bepalen het niveau van aangepaste code die u wilt laten uitvoeren op uw systeem. U kunt alle aangepaste connectors of alleen verbindingslijnen gecertificeerd en gedistribueerd door Microsoft in de **gegevens ophalen** dialoog.
+Momenteel kunt u **aangepaste Connectors** inschakelen door middel van een menu waar u veilig het niveau van aangepaste code, die u wilt laten uitvoeren op uw systeem, kunt instellen. U kunt in de instellingen bij gegevensextenties kiezen voor "alle aangepaste connectors" of "alleen connectors die door Microsift gecertificeerd en gedistribueerd zijn".
 
 ## <a name="custom-connectors"></a>Aangepaste connectors
 
